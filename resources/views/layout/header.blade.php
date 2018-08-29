@@ -33,7 +33,10 @@
 
         <ul class="list-unstyled components">
             <li class="active">
-                <a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false">About</a>
+                <a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false">
+                    About
+                    <i class="float-right fa fa-angle-down"></i>
+                </a>
                 <ul class="collapse list-unstyled" id="homeSubmenu">
                     <li>
                         <a href="#">Our Story</a>
@@ -65,7 +68,10 @@
                 </ul>
             </li>
             <li>
-                <a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false">Programs</a>
+                <a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false">
+                    Programs
+                    <i class="float-right fa fa-angle-down"></i>
+                </a>
                 <ul class="collapse list-unstyled" id="pageSubmenu">
                     <li>
                         <a href="#">Our Services</a>
@@ -97,7 +103,10 @@
                 <a href="#">Mentoring</a>
             </li>
             <li>
-                <a href="#support" data-toggle="collapse" aria-expanded="false">Support</a>
+                <a href="#support" data-toggle="collapse" aria-expanded="false">
+                    Support
+                    <i class="float-right fa fa-angle-down"></i>
+                </a>
                 <ul class="collapse list-unstyled" id="support">
                     <li>
                         <a href="#">Donate</a>
@@ -111,7 +120,10 @@
                 </ul>
             </li>
             <li>
-                <a href="#events" data-toggle="collapse" aria-expanded="false">Events</a>
+                <a href="#events" data-toggle="collapse" aria-expanded="false">
+                    Events
+                    <i class="float-right fa fa-angle-down"></i>
+                </a>
                 <ul class="collapse list-unstyled" id="events">
                     <li>
                         <a href="#">Gala Photo Albums</a>
@@ -128,7 +140,10 @@
                 </ul>
             </li>
             <li>
-                <a href="#blogNews" data-toggle="collapse" aria-expanded="false">Blog & News</a>
+                <a href="#blogNews" data-toggle="collapse" aria-expanded="false">
+                    Blog & News
+                    <i class="float-right fa fa-angle-down"></i>
+                </a>
                 <ul class="collapse list-unstyled" id="blogNews">
                     <li>
                         <a href="#">Blog</a>
